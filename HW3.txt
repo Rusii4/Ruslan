@@ -20,8 +20,8 @@ public class Main {
         System.out.println(t);
 
         final double PI = 3.14;
-        final double g = 9.8;
-        final String gorod = "Almaty";
+        final double G = 9.8;
+        final String GOROD = "Almaty";
 
         byte bit = 14;
         short shot = 30;
